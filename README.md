@@ -1,4 +1,4 @@
-**Password Security Checker Using CLI**
+# Password Security Checker Using CLI
 
 **Description:**
 
